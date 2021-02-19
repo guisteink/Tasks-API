@@ -7,5 +7,4 @@
 # tecnologies:
   - MongoDB
   - Insomnia
-  - ReactJS
   - NodeJS
