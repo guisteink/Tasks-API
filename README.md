@@ -1,5 +1,5 @@
 # Tasks-API
- - API REST 
+ - API RESTfull
  - Projeto Web (https://github.com/guisteink/Tasks-WEB)
 
 # how to use:
